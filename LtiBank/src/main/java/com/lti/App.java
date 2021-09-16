@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Next build in 1 min.");
+        System.out.println("Trying poll scm..");
     }
 }
